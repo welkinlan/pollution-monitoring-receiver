@@ -1,0 +1,24 @@
+{
+  "name": "cems-translate-service",
+  "version": "2.0.0",
+  "description": "Translate-Service for Lanyu-CEMS-Data-Server",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/welkinlan/CEMS-Translate-Service.git"
+  },
+  "author": "mantinghui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/welkinlan/CEMS-Translate-Service/issues"
+  },
+  "homepage": "https://github.com/welkinlan/CEMS-Translate-Service#readme",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "path": "^0.12.7"
+  }
+}
