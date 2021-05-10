@@ -1,4 +1,4 @@
-# CEMS-Translate-Service
+# Pollution-Monitoring=Receiver
 
 ## 声明
 本项目为天津市蓝宇科工贸有限公司（以下简称“蓝宇”）CEMS项目数据平台的中间服务器，作用是将蓝宇CEMS设备上传的数据包翻译为数据服务器可识别的JSON数据包并且通过http协议上传给数据服务器。
